@@ -10,6 +10,7 @@ export const styleMap = {
     color: "black",
   },
   UNDERLINE: {
+    fontSize: "30px",
     textDecoration: "UNDERLINE",
     color: "black",
     fontWeight: "normal",
